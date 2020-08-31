@@ -23,8 +23,7 @@ img {
     color: #fff;
     text-align: center;
     padding: 30px;
-    font-size: 100px;
-    border: 1px solid red;
+    font-size: 30px;
     border-radius: 10px;
     transition: color 1s;
 }
